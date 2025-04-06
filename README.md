@@ -1,7 +1,7 @@
 # Proyecto leads
 
 ## Repositorio de github
-(acceder al proyecto leads)[https://github.com/cesargm1/leads/]
+[acceder al proyecto leads] (https://github.com/cesargm1/leads/)
 ## Instalacion
 
 ```bash
