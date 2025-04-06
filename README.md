@@ -1,6 +1,6 @@
 # Proyecto leads
 
-## Repositorio de github 
+## Repositorio de github
 
 [acceder al proyecto leads](https://github.com/cesargm1/leads/)
 
@@ -9,6 +9,14 @@
 ```bash
 composer install
 ```
+
+## Base de datos
+
+Las bases de datos estan en la carpeta database:
+
+- db.sql : estructura de la base de datos
+- triggers.sql : Definicion de los trigger
+- seeder.sql : Usuario de pruebas
 
 ## Configuracion
 
